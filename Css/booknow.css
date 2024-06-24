@@ -1,0 +1,47 @@
+body {
+  font-family: "Be Vietnam Pro", sans-serif;
+}
+
+.booknow1 {
+  padding: 50px 0;
+  background-color: #f9f9f9;
+}
+.booknow1 .title h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+.booknow1 .content p {
+  font-size: 1.1rem;
+  color: #555;
+  margin-bottom: 40px;
+}
+.booknow1 .form-group {
+  margin-bottom: 15px;
+}
+.booknow1 select,
+.booknow1 input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: none;
+  font-size: 1rem;
+}
+.booknow1 label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+.booknow1 .btn {
+  margin-top: 20px;
+  padding: 10px 5px;
+  background-color: #4d8a54;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+.booknow1 .btn:hover {
+  background-color: #3e7143;
+}

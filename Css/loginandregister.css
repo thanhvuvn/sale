@@ -1,0 +1,15 @@
+form {
+  width: 400px;
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: white;
+  opacity: 0.5;
+  transition: 0.5s;
+}
+body {
+  background-image: url(/img/dangnhapvaky.jpg);
+}
+form:hover {
+  opacity: 0.9;
+}
